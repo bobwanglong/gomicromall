@@ -1,6 +1,0 @@
-2022/01/26 18:59:49 {"@timestamp":"2022-01-26T18:59:49.553+08","level":"error","content":"discovbuilder.go:33 bad resolver state"}
-2022/01/26 18:59:52 rpc dial: discov://etcd:2379/user.rpc, error: context deadline exceeded, make sure rpc service "user.rpc" is already started
-exit status 1
-2022/01/26 19:00:34 {"@timestamp":"2022-01-26T19:00:34.394+08","level":"error","content":"discovbuilder.go:33 bad resolver state"}
-2022/01/26 19:00:37 rpc dial: discov://etcd:2379/user.rpc, error: context deadline exceeded, make sure rpc service "user.rpc" is already started
-exit status 1
